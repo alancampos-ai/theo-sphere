@@ -6,7 +6,7 @@ Experiments on spherical kernel spaces evaluate stable weighted sampling and rec
 
 #### Dependencies
 
-* Python 3
+* Python >= 3.8
 * numpy
 * scipy
 * matplotlib
