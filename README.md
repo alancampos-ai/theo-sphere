@@ -6,19 +6,15 @@ Experiments on spherical kernel spaces evaluate stable weighted sampling and rec
 
 #### Dependencies
 
-* Python >= 3.8
+* Python 3
 * numpy
 * scipy
-* dipy
 * matplotlib
-* pymanopt
-* torch (optional; required for CUDA execution)
 
 #### Bash
 
 ```bash
-pip install numpy scipy dipy matplotlib pymanopt
-pip install torch
+pip install numpy scipy matplotlib
 ```
 
 #### License (MIT)
